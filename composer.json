@@ -12,7 +12,7 @@
             "email": "rajeshdnw@gmmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",

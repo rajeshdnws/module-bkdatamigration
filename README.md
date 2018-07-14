@@ -16,7 +16,7 @@
 ### Compatible:
     + Magento CE 1.x: 1.6.x, 1.7.x, 1.8.x, 1.9.x
     + Magento 2 CE 2.0.0 and later
-### Author: [bluethink](http://www.bluethink.in)
+### Author: [installextension](https://www.installextension.com)
 
 ### Prepare (precondition):
 + Install a Magento 2 fresh website (without data sample)
